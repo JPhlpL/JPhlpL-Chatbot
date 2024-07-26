@@ -1,0 +1,69 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.idea/
+python/.idea
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# vercel
+.vercel
+python/.vercel
+# editors
+.vscode
+.idea/vcs.xml
+.idea/prettier.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/codeStyles/Project.xml
+.idea/codeStyles/codeStyleConfig.xml
+
+venv/**
+
+python/venv
+
+**.env
+
+*.pyc
+
+taja_youtube_google_developer_secret.json
+
+python-api/whisper-manual/1_hour_30_min.mp3
+
+python-api/test-data/**
+
+python-api/venv-3.9/**
+
+certificates
+#/python-api/sandbox #will remove after this PR this done
+
+
+**.mp4
+
+**.pkl

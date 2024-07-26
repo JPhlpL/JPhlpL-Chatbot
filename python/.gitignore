@@ -1,0 +1,16 @@
+.vercel
+
+/venv/**
+
+.envrc
+
+__pycache__/
+
+**.env.*
+
+
+**/test-data/**
+
+**.mp4
+
+*.envrc
