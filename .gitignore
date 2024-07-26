@@ -46,7 +46,7 @@ python/.vercel
 
 venv/**
 
-python/venv
+python/venv/**
 
 **.env
 
