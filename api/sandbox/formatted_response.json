@@ -1,0 +1,20 @@
+{
+  "created": 1722048264,
+  "model": "llama3-70b",
+  "usage": {
+    "prompt_tokens": 69,
+    "completion_tokens": 100,
+    "total_tokens": 169
+  },
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Dr. Jos\u00e9 Rizal (1861-1896) was a Filipino polymath, nationalist, and reformist. He is considered one of the greatest heroes of the Philippines and is best known for his novels that sparked the Philippine Revolution against Spanish colonial rule.\n\nHere are some of his notable achievements:\n\n1. **National Hero**: Rizal is revered as the national hero of the Philippines for his contributions to the country's struggle for independence and reform.\n2. **Novelist**: He wrote",
+        "function_call": null
+      },
+      "finish_reason": "max_token"
+    }
+  ]
+}
